@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
