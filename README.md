@@ -55,6 +55,7 @@
 | [0011-container-with-most-water](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -73,5 +74,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
