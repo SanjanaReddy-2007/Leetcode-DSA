@@ -42,11 +42,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0008-string-to-integer-atoi](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
