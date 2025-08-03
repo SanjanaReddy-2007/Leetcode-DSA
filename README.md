@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -87,6 +88,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
