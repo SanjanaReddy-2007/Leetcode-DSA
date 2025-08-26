@@ -30,6 +30,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
@@ -80,6 +81,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
