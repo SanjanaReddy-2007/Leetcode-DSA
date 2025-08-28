@@ -93,6 +93,7 @@
 | [0020-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -103,8 +104,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
