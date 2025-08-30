@@ -44,6 +44,7 @@
 | [0001-two-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0125-valid-palindrome](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -110,4 +113,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
