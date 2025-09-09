@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
+| [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,4 +130,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
