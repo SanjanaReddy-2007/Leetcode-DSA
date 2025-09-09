@@ -23,6 +23,7 @@
 | [0238-product-of-array-except-self](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -80,6 +81,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
 |  |
