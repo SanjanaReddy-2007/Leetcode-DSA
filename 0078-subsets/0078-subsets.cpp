@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+// O (log n * n)
     void getAllSubsets(vector<int>& nums, vector<int>& ans, int i, vector<vector<int>>& allSubsets) {
         if ( i == nums.size()) {
             // returning all subsets
