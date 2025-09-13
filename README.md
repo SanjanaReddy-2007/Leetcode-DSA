@@ -15,6 +15,7 @@
 | [0011-container-with-most-water](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
@@ -149,6 +150,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0090-subsets-ii) |
 ## Matrix
