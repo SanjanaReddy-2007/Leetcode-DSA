@@ -149,6 +149,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -168,4 +169,8 @@
 | [0036-valid-sudoku](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
