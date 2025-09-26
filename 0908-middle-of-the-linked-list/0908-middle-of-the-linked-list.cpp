@@ -11,17 +11,13 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int count = 1;
-        ListNode* temp = head;
-        while (temp->next != NULL) {
-            temp = temp->next;
-            count++;
+        // Use of Slow- fast pointers with single pass
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        int mid = (count/2) + 1;
-        ListNode* middle = head;
-        for (int i = 1; middle != NULL && i < mid; i++){
-            middle = middle->next;
-        }
-        return middle;
+        return slow;
     }
 };
