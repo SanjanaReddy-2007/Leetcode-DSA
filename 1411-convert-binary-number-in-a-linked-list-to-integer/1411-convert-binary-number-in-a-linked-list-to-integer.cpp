@@ -11,7 +11,7 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
-        int count = 0, sum = 0;
+        /*int count = 0, sum = 0;
         ListNode* temp = head;
         while (temp != NULL) {
             count++;
@@ -23,6 +23,14 @@ public:
             sum += (temp->val)*pow(2, count);
             temp = temp->next;
         }
-        return sum;
+        return sum;*/
+
+        // Better Approach using Bitwise Operators
+        int num = 0;
+        while (head != NULL) {
+            num = (num << 1) | head->val;
+            head = head->next;
+        }
+        return num;
     }
 };
