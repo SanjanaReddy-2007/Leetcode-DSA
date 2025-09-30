@@ -60,6 +60,7 @@
 | [0001-two-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0037-sudoku-solver) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -81,6 +82,7 @@
 | [0031-next-permutation](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
@@ -179,6 +181,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
