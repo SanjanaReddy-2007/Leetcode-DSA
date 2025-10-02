@@ -120,6 +120,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -187,4 +188,16 @@
 | [0206-reverse-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
