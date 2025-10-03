@@ -55,6 +55,7 @@
 | [0078-subsets](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -196,6 +198,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,4 +211,5 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
