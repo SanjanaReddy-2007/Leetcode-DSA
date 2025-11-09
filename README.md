@@ -89,6 +89,7 @@
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
@@ -132,6 +133,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -171,6 +173,7 @@
 | [0002-add-two-numbers](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -198,6 +201,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
