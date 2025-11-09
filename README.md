@@ -10,6 +10,7 @@
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2288-count-operations-to-obtain-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
 ## Array
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
 ## Design
 |  |
 | ------- |
