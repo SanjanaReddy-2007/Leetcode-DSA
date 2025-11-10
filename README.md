@@ -61,6 +61,7 @@
 | [0090-subsets-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0476-number-complement](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0476-number-complement) |
 ## Hash Table
 |  |
 | ------- |
