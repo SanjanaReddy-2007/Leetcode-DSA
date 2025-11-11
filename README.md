@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
