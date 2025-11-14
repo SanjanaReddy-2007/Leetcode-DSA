@@ -40,6 +40,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2058-concatenation-of-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
@@ -150,6 +151,7 @@
 | [0054-spiral-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
 ## Design
