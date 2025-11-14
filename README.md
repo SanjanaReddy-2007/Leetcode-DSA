@@ -40,6 +40,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1580-shuffle-the-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
