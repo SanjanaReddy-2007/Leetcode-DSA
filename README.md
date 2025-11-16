@@ -37,6 +37,7 @@
 | [0200-number-of-islands](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0485-max-consecutive-ones](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
