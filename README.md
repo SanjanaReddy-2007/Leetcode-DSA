@@ -42,6 +42,7 @@
 | [0485-max-consecutive-ones](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [2625-increment-submatrices-by-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 ## Binary Search
 |  |
