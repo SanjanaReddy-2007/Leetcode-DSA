@@ -39,6 +39,7 @@
 | [0200-number-of-islands](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [2625-increment-submatrices-by-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 ## Binary Search
@@ -175,6 +177,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
