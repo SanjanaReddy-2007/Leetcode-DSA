@@ -1,18 +1,20 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int n = nums.size();
-        int ans = 0;
-        for (int i = 0; i < n; i++) {
-            int sum = nums[i];
-            if (sum == k) ans++;
-            for (int j = i+1; j < n; j++) {
-                sum += nums[j];
-                if (sum == k) {
-                    ans++;
-                }
+        unordered_map<int, int> subNum;
+        subNum[0] = 1;
+        int total = 0, count = 0;
+
+        for (int n : nums) {
+            total += n;
+
+            if (subNum.find(total - k) != subNum.end()) {
+                count += subNum[total - k];
             }
+
+            subNum[total]++;
         }
-        return ans;
+
+        return count;
     }
 };
