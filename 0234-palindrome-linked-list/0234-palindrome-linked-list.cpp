@@ -10,14 +10,14 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
+    bool isPalindrome(ListNode* head) { // O(n)
         vector<int> arr;
-        while (head != NULL) {
+        while (head != NULL) { //O(n)
             arr.push_back(head->val);
             head = head->next;
         }
         int st = 0, end = arr.size()-1;
-        while (st <= end) {
+        while (st <= end) {  // O(n/2)
             if (arr[st] != arr[end]) {
                 return false;
             }
