@@ -1,10 +1,12 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {    // O(n)
+
         deque<int> dq;
         vector<int> res;
 
-        // 1st window
+        int n = nums.size();
+        // for 1st window
         for (int i = 0; i < k; i++) {
             while (dq.size() > 0 && nums[dq.back()] <= nums[i]) {
                 dq.pop_back();
@@ -12,16 +14,15 @@ public:
             dq.push_back(i);
         }
 
-        // other windows
-        for (int i = k; i < nums.size(); i++) {
+        // for remaining windows
+        for (int i = k; i < n; i++) {
+            // push the result i.e max lies at front of deque
             res.push_back(nums[dq.front()]);
-
-            // check if elements in deque belong to current window
-            while (dq.size() > 0 && dq.front() <= i-k) {
+            
+            // Checking if the elements belong to curr window
+            while (dq.size() && dq.front() <= i-k) {
                 dq.pop_front();
             }
-
-            // Same condition as that of 1st window
             while (dq.size() > 0 && nums[dq.back()] <= nums[i]) {
                 dq.pop_back();
             }
