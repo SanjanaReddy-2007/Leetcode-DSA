@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -33,6 +34,7 @@
 | [0051-n-queens](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0090-subsets-ii) |
