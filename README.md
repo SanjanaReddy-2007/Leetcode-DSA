@@ -42,6 +42,7 @@
 | [0136-single-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
@@ -145,6 +146,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -157,6 +159,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -218,6 +221,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
