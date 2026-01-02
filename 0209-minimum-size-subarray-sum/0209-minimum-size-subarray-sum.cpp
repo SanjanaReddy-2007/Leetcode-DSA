@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
-
+        // Using Sliding- Window Approach with variable size pattern
         int left = 0, minLen = INT_MAX;
         int sum = 0; // Initializing sum of variable-sized window
 
