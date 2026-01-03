@@ -80,6 +80,7 @@
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
