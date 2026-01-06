@@ -302,6 +302,7 @@
 | [0572-subtree-of-another-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [0226-invert-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 | [0572-subtree-of-another-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -340,6 +343,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
