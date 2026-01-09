@@ -112,6 +112,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -309,6 +310,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -326,6 +328,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -346,6 +349,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -356,6 +360,7 @@
 | [0200-number-of-islands](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## String Matching
 |  |
