@@ -115,6 +115,7 @@
 | [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -153,6 +154,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -200,6 +202,7 @@
 | [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -246,6 +249,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
