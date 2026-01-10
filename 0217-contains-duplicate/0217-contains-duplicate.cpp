@@ -4,10 +4,11 @@ public:
         unordered_set<int> numSet;
 
         for (int n : nums) {
-            if (numSet.find(n) != numSet.end()) {
+            if (!numSet.contains(n)) {
+                numSet.insert(n);
+            } else {
                 return true;
             }
-            numSet.insert(n);
         }
         
         return false;        
