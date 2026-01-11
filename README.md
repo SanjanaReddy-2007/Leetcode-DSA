@@ -38,6 +38,7 @@
 | [0066-plus-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0136-single-number) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -289,6 +292,7 @@
 | [0036-valid-sudoku](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1975-maximum-matrix-sum) |
@@ -396,6 +400,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
 |  |
