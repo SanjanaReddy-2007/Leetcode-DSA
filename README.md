@@ -36,6 +36,7 @@
 | [0051-n-queens](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0078-subsets) |
@@ -130,6 +131,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0217-contains-duplicate) |
