@@ -75,6 +75,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2625-increment-submatrices-by-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3453-separate-squares-i) |
@@ -127,6 +128,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -418,6 +420,7 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1925-count-square-sum-triples) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Geometry
 |  |
 | ------- |
