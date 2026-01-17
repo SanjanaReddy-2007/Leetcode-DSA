@@ -17,6 +17,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -76,6 +77,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3453-separate-squares-i) |
@@ -425,4 +427,5 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
