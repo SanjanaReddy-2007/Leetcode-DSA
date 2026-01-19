@@ -67,6 +67,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -187,6 +188,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0724-find-pivot-index) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1895-largest-magic-square) |
 | [2625-increment-submatrices-by-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -204,6 +206,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3453-separate-squares-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3453-separate-squares-i) |
 ## String
@@ -308,6 +311,7 @@
 | [0054-spiral-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1975-maximum-matrix-sum) |
