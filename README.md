@@ -85,6 +85,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3453-separate-squares-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -137,6 +138,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -255,6 +257,7 @@
 | [2058-concatenation-of-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0506-relative-ranks) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -335,6 +339,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -439,4 +444,12 @@
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
