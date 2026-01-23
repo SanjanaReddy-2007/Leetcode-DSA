@@ -86,6 +86,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -139,6 +140,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -258,6 +260,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | [0239-sliding-window-maximum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0506-relative-ranks) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -340,6 +344,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Tree
 |  |
 | ------- |
@@ -448,8 +453,10 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
