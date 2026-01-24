@@ -6,7 +6,7 @@ public:
 
         sort(nums.begin(), nums.end());
         
-        int maxSum = INT_MIN;
+        int maxSum = 0;
         while (st < end) {
             maxSum = max(maxSum, nums[st++]+nums[end--]);
         }
