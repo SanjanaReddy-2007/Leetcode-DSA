@@ -72,6 +72,7 @@
 | [1390-four-divisors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1580-shuffle-the-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1580-shuffle-the-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2058-concatenation-of-array) |
@@ -154,6 +155,7 @@
 | [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 ## Counting
@@ -181,10 +183,12 @@
 | [0876-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
