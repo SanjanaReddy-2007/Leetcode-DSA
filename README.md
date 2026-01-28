@@ -93,6 +93,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
@@ -111,6 +112,7 @@
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | [1975-maximum-matrix-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2625-increment-submatrices-by-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Linked List
 |  |
 | ------- |
