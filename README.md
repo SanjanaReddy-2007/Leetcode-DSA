@@ -83,6 +83,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -112,6 +113,7 @@
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
 |  |
@@ -245,6 +247,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
@@ -477,9 +480,15 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
