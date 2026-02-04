@@ -98,6 +98,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -118,6 +119,7 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
 |  |
