@@ -91,6 +91,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -282,6 +283,7 @@
 | [2058-concatenation-of-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
+| [3379-transformed-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
