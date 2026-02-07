@@ -259,6 +259,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 ## Stack
