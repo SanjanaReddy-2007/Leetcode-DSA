@@ -120,6 +120,7 @@
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -257,6 +258,7 @@
 | [0567-permutation-in-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -275,6 +277,7 @@
 | [0225-implement-stack-using-queues](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
