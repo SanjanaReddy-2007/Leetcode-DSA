@@ -75,6 +75,7 @@
 | [1390-four-divisors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1580-shuffle-the-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1580-shuffle-the-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1975-maximum-matrix-sum) |
