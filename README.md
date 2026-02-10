@@ -107,12 +107,14 @@
 | [3640-trionic-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3719-longest-balanced-subarray-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3606-coupon-code-validator](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3719-longest-balanced-subarray-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
@@ -230,6 +233,7 @@
 | [1895-largest-magic-square](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1895-largest-magic-square) |
 | [2625-increment-submatrices-by-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -518,4 +522,8 @@
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
