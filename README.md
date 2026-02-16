@@ -115,6 +115,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -140,6 +141,7 @@
 | [0078-subsets](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0476-number-complement) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
