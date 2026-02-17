@@ -143,6 +143,7 @@
 | [0136-single-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0476-number-complement) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -372,6 +373,7 @@
 | [0051-n-queens](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
 | ------- |
