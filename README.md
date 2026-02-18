@@ -145,6 +145,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
