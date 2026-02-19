@@ -218,6 +218,7 @@
 | [0234-palindrome-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -277,6 +278,7 @@
 | [0344-reverse-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
