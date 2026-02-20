@@ -116,6 +116,7 @@
 | [0053-maximum-subarray](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -187,6 +188,7 @@
 | [0217-contains-duplicate](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0506-relative-ranks) |
+| [0761-special-binary-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -280,6 +282,7 @@
 | [0567-permutation-in-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
