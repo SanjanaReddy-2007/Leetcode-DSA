@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/1390-four-divisors) |
@@ -147,6 +148,7 @@
 | [0401-binary-watch](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SanjanaReddy-2007/Leetcode-DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
